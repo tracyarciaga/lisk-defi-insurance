@@ -18,4 +18,4 @@
 
 ### How to reset the database of an application
 
-``` rm -r ~/.lisk/hello_app/data/ ```
+``` rm -r ~/.lisk/blockchain_app/data/ ```
