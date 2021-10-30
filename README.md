@@ -11,7 +11,9 @@
 
 1. Go to blockchain_app folder
 ``` cd blockchain_app ```
-2. Start the blockchain
+2. Make sure all dependencies are installed
+``` npm install ```
+3. Start the blockchain
 ``` ./bin/run start ```
 
 ### How to reset the database of an application
